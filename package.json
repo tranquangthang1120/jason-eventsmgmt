@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "module": "^1.2.5",
     "react-router-dom": "^6.20.0"
   }
 }
