@@ -1,10 +1,11 @@
-import Productitem from "../component/Product";
+import ProductItem from "../component/ProductItem";
 
-function ProductList(products, addCart){
+function ProductList({products, addCart, getDetails}){
     return(
         <div>
-            {products.map(p => (
-            <Productitem key={p.id} product={p} addCart={addCart}/>
+            <h3>Product List</h3>
+            {products.map(pro => (
+                <ProductItem key={pro.id} product={pro} addCart={addCart} getDetails={getDetails}/>
             ))}
         </div>
     );
