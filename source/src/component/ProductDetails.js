@@ -1,3 +1,4 @@
+import "../css/ProductDetails.css"
 function ProductDetails({product, addCart}){
     return(
         <div className='productDetails'>

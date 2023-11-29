@@ -17,18 +17,11 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try{
-        //đọc file json thứ nhất
         const productJson = await fetch('products.json');
         const productData = await productJson.json();
         setProducts(productData);
         setFilerProduct(productData);
 
-        //đọc file json thứ hai
-        const userJson = await fetch('user.json');
-        const userData = await userJson.json();
-        setUsers(userData);
-
-        console.log(users);
       }catch (error){
         console.log('error reading json');
       }
@@ -52,11 +45,16 @@ function App() {
   const getDetails = (pro) => {
     setProductDetails(pro);
   }
+  const handleSort = () => {
+    const sortedProduct = 
+      [...filterProduct].sort((a,b) => a.name.localeCompare(b.name));
+    setFilerProduct(sortedProduct);
+  }
 
   return (
     <div className="App">
       <nav>
-          <Link to="/home"></Link>
+          <Link to="/">Home</Link>
           <Link to="/product">Product</Link>
       </nav>
       <Routes>
