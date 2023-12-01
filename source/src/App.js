@@ -121,7 +121,9 @@ function App() {
   
   return (
     <div className="App">
-      <div class="name">Jason EventSMGMT</div>
+      <div class="name">
+       Jason EventSMGMT 
+      </div>
       <nav>
         <Link to="/">Home</Link>
         <Link to="/product">Product</Link>
