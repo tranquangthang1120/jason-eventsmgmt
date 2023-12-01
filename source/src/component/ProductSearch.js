@@ -1,3 +1,5 @@
+import '../css/ProductSearch.css'
+
 function ProductSearch({searchValue, onSearch}){
     return(
         <input type="text" placeholder="Seach By Name" 

@@ -121,10 +121,14 @@ function App() {
   
   return (
     <div className="App">
+      <div class="name">Jason EventSMGMT</div>
       <nav>
         <Link to="/">Home</Link>
         <Link to="/product">Product</Link>
-        
+        <Link to="/aboutus">AboutUs</Link>
+        <Link to="/gallery">Gallery</Link>
+        <Link to="/contactus">ContactUs</Link>
+        <Link to="/review">Review</Link>
   
         {localStorage.getItem('username')? 
           (<span>
@@ -145,7 +149,7 @@ function App() {
         <Home products={filterProduct} addCart={addCart} getDetails={getDetails}/>
         </div>
         }/>
-        <Route path='/product' 
+       <Route path='/product' 
             element=
             {
               localStorage.getItem('username') ? (

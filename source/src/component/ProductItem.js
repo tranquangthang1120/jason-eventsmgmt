@@ -12,7 +12,6 @@ function ProductItem({product, addCart, getDetails}){
                 }}>
                 <h3>{product.name}</h3>
                 <p><img src={product.image} alt="image" width="300px"/></p>
-                <h5>{product.description}</h5>
                 <p>Giá: ${product.price}</p>
             </div>           
             <button onClick={() => addCart(product)}>Add To Cart</button>
