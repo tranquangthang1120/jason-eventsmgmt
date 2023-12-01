@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+
 function ProductItem({product, addCart, getDetails}){
     const navigate = useNavigate();
     return(
@@ -9,10 +10,10 @@ function ProductItem({product, addCart, getDetails}){
                     //chuyển route tới /details
                     navigate('/details');
                 }}>
-            <img src= {product.image} />
-            <h4>{product.name}</h4>
-            <p>{product.description}</p>
-            <p>Giá: {product.price} $</p>
+                <h3>{product.name}</h3>
+                <p><img src={product.image} alt="image" width="300px"/></p>
+                <h5>{product.description}</h5>
+                <p>Giá: ${product.price}</p>
             </div>           
             <button onClick={() => addCart(product)}>Add To Cart</button>
         </div>

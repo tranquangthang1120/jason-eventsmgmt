@@ -1,4 +1,4 @@
-import ProductItem from "../component/ProductItem";
+import ProductItem from "./ProductItem";
 
 function ProductList({products, addCart, getDetails}){
     return(
