@@ -7,6 +7,7 @@ import CartList from './component/CartList';
 import ProductSearch from './component/ProductSearch';
 import ProductDetails from './component/ProductDetails';
 import Login from './component/Login';
+import SingUp from'./component/Singup';
 import Paycart from './component/Paycart';
 import Logocart from './image/Cart.png';
 import Logo from './image/logo.png'
@@ -175,7 +176,9 @@ function App() {
         <ProductDetails product={productDetails} addCart={addCart}/>
         </div>
       }/>
-        <Route path='/login' element={<Login checkLogin={checkLogin} errorLogin={errorLogin}/>}/>
+        <Route path='/login' element={<Login checkLogin={checkLogin} errorLogin={errorLogin} />}
+        />
+        <Route path='/singup' element={<SingUp/>}/>
       </Routes>
     </div>
   );

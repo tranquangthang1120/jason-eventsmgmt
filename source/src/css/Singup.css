@@ -1,4 +1,4 @@
-.login{
+.singup{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,14 +7,14 @@
     height: 400px;
     background-color: rgba(138, 169, 136, 0.189);
 }
-.Loges{
+.singup {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 10px;
 }
 
-.login td .loginh3 {
+.singup td .loginh3 {
     width: 100%;
     height: 50px;
     display: flex;
@@ -37,17 +37,9 @@
     width: 100%;
     height: 70px;
 }
-.login button {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    width: 200px;
-    height: 70px;
-    text-align: center;
-    margin: 10px;
-    margin-top: 50px;
-    text-align: center;
+.login .button{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(249, 247, 247, 0.893);
+    text-align: center;
 }

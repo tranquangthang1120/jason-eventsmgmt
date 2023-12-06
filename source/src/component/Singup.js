@@ -1,18 +1,20 @@
 import { useState } from "react";
 import '../css/Login.css'
-import { useNavigate } from "react-router-dom";
+import { useNavigate,Link } from "react-router-dom";
 
 
 function Login({checkLogin, errorLogin}){
     const navigate = useNavigate();
     const [username,setUsername] = useState('');
     const [password,setPassword] = useState('');
+    const [Enterthepassword,setEnterthepassword] = useState('');
     const handleLogin = (e) => {
         e.preventDefault();
-        const checkUser = {username, password};
+        const checkUser = {username, password, Enterthepassword};
         checkLogin(checkUser);
         setUsername('');
         setPassword('');
+        setEnterthepassword('');
     }
 
     return(
@@ -23,7 +25,7 @@ function Login({checkLogin, errorLogin}){
             <h4>{errorLogin}</h4>
             <table>
                 <tr>
-                    <td><b class="loginh3"><h3 >Login</h3></b></td>
+                    <td><b class="loginh3"><h3 >Sing Up</h3></b></td>
                 </tr>
                  
                 <tr>
@@ -34,17 +36,20 @@ function Login({checkLogin, errorLogin}){
                 <tr>
                     <td>Password</td>
                     <td><input type="password" class="password" value={password} 
-                        onChange={(e) => setPassword(e.target.value)}/></td>
+                        onChange={(e) => setPassword(e.target.value)}/>
+                    </td>
                 </tr>
                 <tr>
-                    <td><input type="submit" value="Login" class="logup"/></td>
-                    <td><button onClick={() => navigate('/Singup')}>SignUp</button></td>
+                    <td>Enter The Password</td>
+                    <td><input type="password" class="password" value={Enterthepassword} 
+                        onChange={(e) => setEnterthepassword(e.target.value)}/></td>
                 </tr>
-            </table>
-        </form>
-        </div>
-        </div>
-    );
-}
-
+                <tr> 
+                    <td><p>Already have an account? <Link to="/login">Login here</Link></p></td>
+                    <td><input type="submit" value="Sing Up" class="logup"/></td></tr>
+                </table>
+                </form>
+                </div>
+                </div>
+                );}
 export default Login;
