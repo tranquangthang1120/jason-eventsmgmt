@@ -7,6 +7,10 @@ import CartList from './component/CartList';
 import ProductSearch from './component/ProductSearch';
 import ProductDetails from './component/ProductDetails';
 import Login from './component/Login';
+import Paycart from './component/Paycart';
+import Logocart from './image/Cart.png';
+import Logo from './image/logo.png'
+
 
 function App() {
   //products chứa toàn bộ dữ liệu từ file json
@@ -70,7 +74,7 @@ function App() {
   //   })
   //   .catch(error => console.log('error reading json' ,error));
   // }, []);
-
+  
   const handleSearch = (value) => {
     setSearchValue(value);
     const dataSearch = products.filter
@@ -91,6 +95,7 @@ function App() {
     setProductDetails(pro);
   }
 
+
   const handleSort = () => {
     const sortedProduct = 
       [...filterProduct].sort((a,b) => a.name.localeCompare(b.name));
@@ -105,8 +110,8 @@ function App() {
       console.log("login thanh cong");
       //dang ky localStorage
       localStorage.setItem('username', checkUser.username);
-      //chuyển đến route product
-      navigate('/product');
+      //chuyển đến route Paycart
+      navigate('/Pay');
     }else{
       //khong tim thay user
       console.log("login khong thanh cong");
@@ -118,11 +123,10 @@ function App() {
   const deleteLocalStorage = () => {
     localStorage.clear();
   }
-  
   return (
     <div className="App">
-      <div class="name">
-       Jason EventSMGMT 
+      <div class="name">     
+      <img src={Logo} width="130px" height="70px"/>
       </div>
       <nav>
         <Link to="/">Home</Link>
@@ -131,7 +135,7 @@ function App() {
         <Link to="/gallery">Gallery</Link>
         <Link to="/contactus">ContactUs</Link>
         <Link to="/review">Review</Link>
-  
+        <Link to="/cart"><a><img src={Logocart} height={"50px"}/></a></Link>
         {localStorage.getItem('username')? 
           (<span>
             Hello {localStorage.getItem('username')},
@@ -141,29 +145,36 @@ function App() {
            </span>) :
           (<Link to="/login">Login</Link> )
         }
-        <Link to="/cart">Cart</Link>
       </nav>
       <Routes>
         <Route path='/' element={
           <div>
             <ProductSearch searchValue={searchValue} onSearch={handleSearch}/>
-                <button onClick={handleSort}>Sort By Name</button>
-        <Home products={filterProduct} addCart={addCart} getDetails={getDetails}/>
+                <button onClick={handleSort}>Search</button>
+        <Home />
         </div>
         }/>
        <Route path='/product' 
             element=
             {
-              localStorage.getItem('username') ? (
               <div>
                 <ProductSearch searchValue={searchValue} onSearch={handleSearch}/>
-                <button onClick={handleSort}>Sort By Name</button>
+                <button onClick={handleSort}>Search</button>
                 <ProductList products={filterProduct} addCart={addCart} getDetails={getDetails}/>
               </div>
-              ) : (<Navigate to='/login'/>)
+            }/>
+            <Route path='/Pay' element={
+            localStorage.getItem('username') ? (
+            <Paycart/>): (<Navigate to='/login'/>)
             }/>
         <Route path='/cart' element={<CartList carts={carts} deleteCart={handleDeleteCart}/>}/>
-        <Route path='/details' element={<ProductDetails product={productDetails} addCart={addCart}/>}/>
+        <Route path='/details' element={
+          <div>
+        <ProductSearch searchValue={searchValue} onSearch={handleSearch}/>
+        <button onClick={handleSort}>Search</button>
+        <ProductDetails product={productDetails} addCart={addCart}/>
+        </div>
+      }/>
         <Route path='/login' element={<Login checkLogin={checkLogin} errorLogin={errorLogin}/>}/>
       </Routes>
     </div>

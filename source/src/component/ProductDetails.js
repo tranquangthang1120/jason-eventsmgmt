@@ -1,14 +1,24 @@
 import '../css/ProductDetails.css';
 
-function ProductDetails({product, addCart}){
+function ProductDetails({product, addCart,}){
+
     return(
         <div className='productDetails'>
             <div><img src={product.image} width="100%" alt="image"/></div>
-            <div>
-                <h1>{product.name}</h1>
-                <h3>Giá: ${product.price}</h3>
-                <h5>{product.description}</h5>
-                <button onClick={() => addCart(product)}>Add To Cart</button>
+            <div class="detail">
+               
+                <table>
+                    <tr>
+                <td colspan="2"><h1>{product.name}</h1></td>
+                   </tr> 
+                <tr>
+                <td colspan="2"><h6>{product.description}</h6></td>
+                </tr>
+                <tr>
+                    <td><h3>Giá: {product.price} vnđ</h3></td>
+                    <td> <button class="buttomdetail" onClick={() => { addCart(product) }}>Thêm vào giỏ</button></td>     
+                </tr>
+                </table>
             </div>
         </div>
     );

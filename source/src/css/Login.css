@@ -2,4 +2,38 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border: solid 1px;
+    width: 600px;
+    height: 400px;
+    background-color: rgba(138, 169, 136, 0.189);
+}
+.Loges{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.login td .loginh3 {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 50px; 
+    margin-left: 110px;
+    margin-bottom: 10px;
+    margin-top: -60px;
+    padding-bottom: 50px;
+}
+.login .password {
+    width: 200px;
+    height: 20px;
+}
+.login .logup{
+    margin-bottom: -60px;
+    margin-top: 20px;
+    margin-left: 0%;
+    width: 100%;
+    height: 70px;
 }

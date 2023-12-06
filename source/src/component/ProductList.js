@@ -1,13 +1,16 @@
 import ProductItem from "./ProductItem";
-
-function ProductList({products, addCart, getDetails}){
+import '../css/ProductList.css'
+function ProductList({products, getDetails}){
     return(
-        <div>
-            <h3>Product List</h3>
+        <>
+       <div><h3 class="list"></h3></div>
+       <div class="productlist">
             {products.map(pro => (
-                <ProductItem key={pro.id} product={pro} addCart={addCart} getDetails={getDetails}/>
+                <ProductItem key={pro.id} product={pro} getDetails={getDetails} class="productlist"/>
             ))}
         </div>
+        
+        </>
     );
 }
 export default ProductList;

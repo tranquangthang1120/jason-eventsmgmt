@@ -1,0 +1,22 @@
+.productitem{
+    height: 350px;
+    margin: 10px;
+}
+.productitem img{
+    height: 200px;   
+}
+.productitem button{
+    background-color: antiquewhite;
+}
+.productitem h3{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.productitem button:hover {
+    background-color: rgba(154, 150, 145, 0.697);
+}
+.productitem:hover {
+      background-color: rgba(95, 158, 160, 0.27);
+      cursor:pointer;
+}

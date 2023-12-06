@@ -1,0 +1,41 @@
+.productlist {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding: 10px;
+  }
+  
+  .productlist button {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  
+  .productlist img {
+    height: 200px;
+  }
+  
+  /* Tablet and laptop (portrait) */
+  @media (max-width: 1024px),(min-width:768x) {
+    .productlist {
+      grid-template-columns: 50% 50%;
+    }
+  }
+  
+  /* Phone (landscape) */
+  @media (max-width: 576px) {
+    .productlist {
+      grid-template-columns: 100%;
+    }
+  }
+  
+  /* Phone (portrait) */
+  @media (max-width: 480px) {
+    .productlist {
+      grid-template-columns: 100%;
+    }
+    .productlist img {
+      height: 150px;
+    }
+  }
+  

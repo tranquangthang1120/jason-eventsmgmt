@@ -1,5 +1,24 @@
-table {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+table thead tr th{
+    border: solid 1px;
 }
+table tbody{
+    border: solid 1px;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.cart button{
+    margin-left: 10px;
+    background-color: antiquewhite;
+    border: none;
+    height: 50px;
+    border-radius: 10%;
+}
+.cart button:hover{
+    background-color: rgba(154, 150, 145, 0.699);
+    border: solid 1px;
+}
+
