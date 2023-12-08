@@ -1,6 +1,12 @@
-function Home(){
+
+import Image1 from '../image/anhnen1.png'
+function Home({}){
     return(
-        <div>This is Home</div>
+    <div>
+        <img src={Image1}></img>
+        <h3> List</h3>
+    </div>
     );
 }
+
 export default Home;
