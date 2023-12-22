@@ -1,4 +1,4 @@
-npm install google-maps-react@2.0.6
+
 function Footer(){
     return(
         <div>
