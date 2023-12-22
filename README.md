@@ -1,19 +1,19 @@
 Ten de tai
 ============================
 
-eProject-2023 Batch no: T1.2302.M0
+eProject-2023 Batch no: T1.2208.M2
 
-Project title: ten de tai
+Project title: JADON Event Management Services
 
 ========> Group 01 <=========
 
 4 collaborators:
 
-Student1397174  Ten
+Student1508345  Trương Anh Duy
 
-Student1396931  Ten
+Student1507668  Trần Phương Nam
 
-Student1396934  Ten
+Student1507669  Trần Quang Thắng
 
 ============================
 
