@@ -14,9 +14,9 @@ function ProductItem({product, getDetails}){
                
                 <img src={product.image} alt="image" width="100%" />
                  <h3>{product.name}</h3>
-                <p>Giá: {product.price} vnđ</p>
+                <p>Price: ${product.price}</p>
                    
-            <button onClick={() =>  navigate('/details')}>Xem thông tin chi tiết</button>
+            <button onClick={() =>  navigate('/details')}>View</button>
              </div>    
         </div>
     );

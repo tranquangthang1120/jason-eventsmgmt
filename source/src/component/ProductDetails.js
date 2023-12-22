@@ -15,8 +15,8 @@ function ProductDetails({product, addCart,}){
                 <td colspan="2"><h6>{product.description}</h6></td>
                 </tr>
                 <tr>
-                    <td><h3>Giá: {product.price} vnđ</h3></td>
-                    <td> <button class="buttomdetail" onClick={() => { addCart(product) }}>Thêm vào giỏ</button></td>     
+                    <td><h3>Price: ${product.price}</h3></td>
+                    <td> <button class="buttomdetail" onClick={() => { addCart(product) }}>Add to cart</button></td>     
                 </tr>
                 </table>
             </div>
