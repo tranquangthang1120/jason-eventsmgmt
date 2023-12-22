@@ -11,6 +11,7 @@ import SingUp from'./component/Singup';
 import Paycart from './component/Paycart';
 import Logocart from './image/Cart.png';
 import Logo from './image/logo.png'
+import Footer from './component/footer'
 
 
 function App() {
@@ -153,7 +154,9 @@ function App() {
           <div>
             <ProductSearch searchValue={searchValue} onSearch={handleSearch}/>
                 <button onClick={handleSort}>Search</button>
-        <Home />
+        <Home/>
+        <ProductList products={filterProduct} addCart={addCart} getDetails={getDetails}/>
+        <Footer/>
         </div>
         }/>
        <Route path='/product' 

@@ -1,4 +1,6 @@
-.Home{
-    display: grid;
-    
+.home img {
+    width: 100%;
+}
+.home h3{
+    font-size: 50px;
 }
