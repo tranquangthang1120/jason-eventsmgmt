@@ -139,6 +139,7 @@ function App() {
         <Link to="/contactus">ContactUs</Link>
         <Link to="/review">Review</Link>
         <Link to="/cart"><a><img src={Logocart} height={"50px"}/></a></Link>
+        <div class="logout">
         {localStorage.getItem('username')? 
           (<span>
             Hello {localStorage.getItem('username')},
@@ -147,7 +148,7 @@ function App() {
             </Link>
            </span>) :
           (<Link to="/login">Login</Link> )
-        }
+        }</div>
       </nav>
       <Routes>
         <Route path='/' element={
