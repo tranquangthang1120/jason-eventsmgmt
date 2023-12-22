@@ -42,9 +42,9 @@ function CartList({carts, deleteCart}){
       <tfoot>
         <td colSpan="4"><hr/></td>
         <tr>
-          <td colSpan="2"><h5>Tiền cần thanh toán: </h5></td>
-          <td><h6>{tongtien} vnđ</h6></td>
-          <td><button onClick={() => navigate('/Pay')}>Thanh toán</button></td>
+          <td colSpan="2"><h5>Money to pay: </h5></td>
+          <td><h6>${tongtien}</h6></td>
+          <td><button onClick={() => navigate('/Pay')}>Pay</button></td>
         </tr>
       </tfoot>
     </table>
