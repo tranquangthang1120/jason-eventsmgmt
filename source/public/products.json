@@ -1,172 +1,171 @@
 [
+  {
+    "id": 1,
+    "price": 500,
+    "name": "Service sound",
+    "description": "Jason EventsMgmt provides professional sound services for a wide range of events, from small corporate meetings to large-scale concerts. Our team of experienced sound engineers has the expertise and equipment to create a perfect audio experience for any event. We are committed to providing our customers with the best possible sound experience. We work with you to understand your needs and create a sound system that will meet your expectations.",
+    "image": "https://densankhauhcm.com/wp-content/uploads/2020/08/dich-vu-cho-thue-am-thanh-anh-sang-tai-quan-9-1.jpg"
+  },
+  {
+    "id": 2,
+    "price": 500,
+    "name": "Lighting service",
+    "description": "At Jason Events MGT, we understand that lighting is one of the most important elements of any event. We work with our clients to create a custom lighting design that will set the tone for their event and create a truly unforgettable experience. Our team of experienced lighting designers has a passion for creating stunning lighting effects that will wow your guests. We use the latest technology and techniques to create custom lighting designs that are both beautiful and functional.",
+    "image": "https://galaxymedia.vn/images/image/to-chuc-su-kien-3(3).jpg"
+  },
+  {
+    "id": 3,
+    "price": 2000,
+    "name": "Rent a conference room",
+    "description": "Looking for a perfect place to host your next meeting or event? Look no further than Jason Events Management! We offer a wide variety of conference rooms to choose from, each with its own unique features and amenities. Our rooms are perfect for any occasion, from small meetings to large conferences. Our conference rooms are all equipped with the latest technology, including high-speed Wi-Fi, projectors, and sound systems. We also offer a variety of catering options to make your event as smooth and stress-free as possible. We understand that every event is different, which is why we offer a variety of flexible rental options. You can rent our rooms by the hour, day, or week. We also offer discounts for multiple-day rentals.",
+    "image": "https://phonghoinghi.com/wp-content/uploads/2018/12/cho-thue-phong-hoi-nghi-phong-hoi-thao-phong-dao-tao.jpg"
+  },
+  {
+    "id": 4,
+    "price": 300,
+    "name": "Decoration service",
+    "description": "Jason Events Management offers a wide range of decoration services to suit any event. Our team of experienced designers and decorators will work with you to create a stunning and memorable backdrop for your special day. At Jason Events Management, we are committed to providing you with the best possible decoration services. We understand that your event is a special occasion, and we want to make sure that it is perfect.",
+    "image": "https://riversidepalace.weebly.com/uploads/8/1/8/1/81814624/5120778_orig.jpg"
+  },
     {
-      "id": 1,
-      "price": 500,
-      "name": "Service sound",
-      "description": "Jason EventsMgmt provides professional sound services for a wide range of events, from small corporate meetings to large-scale concerts. Our team of experienced sound engineers has the expertise and equipment to create a perfect audio experience for any event. We are committed to providing our customers with the best possible sound experience. We work with you to understand your needs and create a sound system that will meet your expectations.",
-      "image": "https://densankhauhcm.com/wp-content/uploads/2020/08/dich-vu-cho-thue-am-thanh-anh-sang-tai-quan-9-1.jpg"
+      "id": 5,
+      "price": 1500,
+      "name": "Lighting and sound services",
+      "description": "Dịch vụ âm thanh ánh sáng Âm thanh ánh sáng là một trong những yếu tố quan trọng góp phần tạo nên sự thành công của một sự kiện. Một hệ thống âm thanh ánh sáng chất lượng sẽ giúp truyền tải thông điệp của sự kiện một cách rõ ràng, thu hút và tạo ấn tượng tốt đẹp cho người tham dự. Về âm thanh Âm thanh là yếu tố quan trọng nhất trong một sự kiện, giúp truyền tải thông điệp của sự kiện một cách rõ ràng, thu hút và tạo ấn tượng tốt đẹp cho người tham dự. Hệ thống âm thanh bao gồm các thiết bị như loa, micro, mixer, amplifier,... Các loa được sử dụng trong âm thanh sự kiện thường là loa sân khấu, loa sub, loa line array,... tùy thuộc vào quy mô và tính chất của sự kiện. Micro được sử dụng cho các diễn giả, ca sĩ, MC,... Mixer là thiết bị xử lý âm thanh, giúp cân chỉnh âm thanh cho phù hợp với không gian và nội dung của sự kiện. Amplifier là thiết bị khuếch đại âm thanh, giúp âm thanh phát ra được to và rõ ràng. Về ánh sáng Ánh sáng đóng vai trò quan trọng trong việc tạo nên không gian và cảm xúc cho sự kiện. Hệ thống ánh sáng bao gồm các thiết bị như đèn chiếu sáng, đèn sân khấu, đèn laser,... Các đèn chiếu sáng được sử dụng trong ánh sáng sự kiện thường là đèn spotlight, đèn PAR, đèn Fresnel,... Đèn sân khấu được sử dụng để chiếu sáng sân khấu, giúp diễn viên, ca sĩ, MC,... nổi bật trên sân khấu. Đèn laser được sử dụng để tạo hiệu ứng ánh sáng đặc biệt, giúp không gian sự kiện trở nên lung linh và ấn tượng hơn. Ưu điểm của dịch vụ âm thanh ánh sáng chuyên nghiệp Hệ thống âm thanh ánh sáng chất lượng, đảm bảo truyền tải thông điệp của sự kiện một cách rõ ràng, thu hút và tạo ấn tượng tốt đẹp cho người tham dự. Đội ngũ nhân viên chuyên nghiệp, giàu kinh nghiệm, có khả năng tư vấn và lắp đặt hệ thống âm thanh ánh sáng phù hợp với quy mô và tính chất của sự kiện. Dịch vụ uy tín, chuyên nghiệp, đảm bảo tiến độ và chất lượng công việc. Lý do chọn dịch vụ âm thanh ánh sáng của Jason EventSMGMT Chúng tôi là đơn vị tổ chức sự kiện chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực âm thanh ánh sáng. Chúng tôi sở hữu hệ thống âm thanh ánh sáng hiện đại, chất lượng cao, được nhập khẩu từ các thương hiệu uy tín trên thế giới. Đội ngũ nhân viên chuyên nghiệp, giàu kinh nghiệm, được đào tạo bài bản về âm thanh ánh sáng. Chúng tôi cam kết mang đến cho khách hàng dịch vụ âm thanh ánh sáng chất lượng cao, đáp ứng mọi yêu cầu của khách hàng. Các gói dịch vụ âm thanh ánh sáng  Chúng tôi cung cấp đa dạng các gói dịch vụ âm thanh ánh sáng, phù hợp với mọi quy mô và ngân sách của khách hàng. Gói cơ bản: Gói dịch vụ này bao gồm các thiết bị âm thanh ánh sáng cơ bản, phù hợp cho các sự kiện có quy mô nhỏ, nội dung đơn giản. Gói nâng cao: Gói dịch vụ này bao gồm các thiết bị âm thanh ánh sáng chất lượng cao, phù hợp cho các sự kiện có quy mô lớn, nội dung phức tạp. Gói VIP: Gói dịch vụ này bao gồm các thiết bị âm thanh ánh sáng hiện đại nhất, phù hợp cho các sự kiện đặc biệt, sang trọng",
+      "image": "https://tochucsukienhanoi.com.vn/wp-content/uploads/2020/10/thue-am-thanh-anh-sang.jpg"
     },
     {
-      "id": 2,
-      "price": 500,
-      "name": "Lighting service",
-      "description": "At Jason Events MGT, we understand that lighting is one of the most important elements of any event. We work with our clients to create a custom lighting design that will set the tone for their event and create a truly unforgettable experience. Our team of experienced lighting designers has a passion for creating stunning lighting effects that will wow your guests. We use the latest technology and techniques to create custom lighting designs that are both beautiful and functional.",
-      "image": "https://galaxymedia.vn/images/image/to-chuc-su-kien-3(3).jpg"
+      "id": 6,
+      "price": 750,
+      "name": "Outdoor sound and lighting servicesi",
+      "description": "Jason Events Management Lighting and Sound Services. Jason Events Management is a leading provider of lighting and sound services for events of all sizes. We offer a wide range of equipment and services to create the perfect atmosphere for your event. We are committed to providing our customers with the highest quality lighting and sound services. We work with you to understand your needs and budget to create the perfect atmosphere for your event.",
+      "image": "https://khangphudataudio.com/wp-content/uploads/2020/11/cho-thue-am-thanh-su-kien-ngoai-troi-1.jpg"
     },
     {
-      "id": 3,
+      "id": 7,
+      "price": 1000000,
+      "name": "Stage lighting service",
+      "description": "Jason Events Management is a leading provider of stage lighting services in Vietnam. Our team of experienced professionals has a passion for creating stunning and memorable lighting effects for a wide range of events, including concerts, theater productions, and corporate events. We offer a wide range of lighting options to suit any budget or event style. Our services include: Lighting design: We work with you to create a custom lighting design that meets your specific needs and goals. Lighting installation: Our team of experienced technicians will install your lighting system safely and efficiently. Lighting operation: We can provide staff to operate your lighting system during your event. We are committed to providing our customers with the highest quality stage lighting services. We are confident that we can help you create an unforgettable event that your guests will never forget.",
+      "image": "https://bizweb.dktcdn.net/100/323/378/files/fb-img-1534138276804-1.jpg?v=1587440017724"
+    },
+    {
+      "id": 8,
+      "price": 1000,
+      "name": "printing and design services",
+      "description": "Jason Eventsmgmt is a full-service event management company that specializes in printing and design. We offer a wide range of services, including: Printing: We can print a variety of materials, including brochures, flyers, invitations, banners, and more. We use high-quality materials and equipment to ensure that your printed materials look their best. Design: We can help you create a custom design for your printed materials. We have a team of experienced designers who can work with you to create a design that meets your needs and budget. Turnaround time: We offer fast turnaround times so that you can get your printed materials in time for your event. Pricing: We offer competitive pricing so that you can get the best value for your money. Whether you're planning a small gathering or a large event, Jason Eventsmgmt can help you with your printing and design needs. We'll work with you to create the perfect look for your event.",
+      "image": "https://nhansusaigon.com/upload/hoi_nghi_hoi_thao/hop_bao/gala_dinner/nha_bat/am_thanh_anh_sang/cho-thue-am-thanh-anh-sang-gia-re-hcm-16.JPG"
+    },
+    {
+      "id": 9,
       "price": 2000,
-      "name": "Rent a conference room",
-      "description": "Looking for a perfect place to host your next meeting or event? Look no further than Jason Events Management! We offer a wide variety of conference rooms to choose from, each with its own unique features and amenities. Our rooms are perfect for any occasion, from small meetings to large conferences. Our conference rooms are all equipped with the latest technology, including high-speed Wi-Fi, projectors, and sound systems. We also offer a variety of catering options to make your event as smooth and stress-free as possible. We understand that every event is different, which is why we offer a variety of flexible rental options. You can rent our rooms by the hour, day, or week. We also offer discounts for multiple-day rentals.",
-      "image": "https://phonghoinghi.com/wp-content/uploads/2018/12/cho-thue-phong-hoi-nghi-phong-hoi-thao-phong-dao-tao.jpg"
+      "name": "Rent a party room",
+      "description": "Looking for the perfect place to host your next party? Jason Eventsmgmt has a variety of party rooms to choose from, all designed to make your event a success. Our party rooms are spacious and well-appointed, with everything you need to entertain your guests. Whether you're hosting a birthday party, corporate event, or wedding reception, we have a room that's perfect for you. We offer a variety of amenities to make your event even more special, including: Free Wi-Fi, Catering options, AV equipment, And more!",
+      "image": "https://maisonoffice.vn/wp-content/uploads/2022/07/JW-Marriott-Hanoi.jpg"
     },
     {
-      "id": 4,
+      "id": 10,
       "price": 300,
-      "name": "Decoration service",
-      "description": "Jason Events Management offers a wide range of decoration services to suit any event. Our team of experienced designers and decorators will work with you to create a stunning and memorable backdrop for your special day. At Jason Events Management, we are committed to providing you with the best possible decoration services. We understand that your event is a special occasion, and we want to make sure that it is perfect.",
-      "image": "https://riversidepalace.weebly.com/uploads/8/1/8/1/81814624/5120778_orig.jpg"
+      "name": "Food Service",
+      "description": "Jason Events Management offers a variety of food service options for all types of events. Whether you're looking for a casual buffet, a formal sit-down dinner, or something in between, we can create a menu that fits your needs and budget. We work with a network of local caterers and restaurants to provide you with the freshest, most delicious food possible. Our chefs are experts in creating dishes that are both visually appealing and flavorful. We also offer a variety of beverage options, including wine, beer, cocktails, and non-alcoholic drinks. We can customize your beverage menu to include your favorite drinks, or we can create a new menu that complements your event theme.",
+      "image": "https://antenna.vn/wp-content/uploads/2019/08/IMG_8663.jpg"
+    },
+    {
+      "id": 11,
+      "price": 550,
+      "name": "Fresh flower decoration service",
+      "description": "Jason Events Management is proud to offer a wide range of fresh flower decoration services for any occasion. Whether you are planning a wedding, a corporate event, or a private party, we can help you create a stunning and memorable floral display. We have a team of experienced florists who are passionate about their work. We use only the freshest flowers and the highest quality materials. We take the time to understand your needs and create a design that is both beautiful and functional.",
+      "image": "https://charmingflowers.com.vn/wp-content/uploads/2020/03/74909810_2558075840946643_786284456062222336_n.jpg"
+    },
+    {
+      "id": 12,
+      "price": 750,
+      "name": "Balloon decoration service",
+      "description": "Jason Eventsmgmt is a leading event planning company that specializes in balloon decorations. We have a team of experienced and talented decorators who can create stunning balloon displays for any occasion. We use only the highest quality balloons and materials, and we work with you to create a balloon decoration that perfectly suits your needs and budget. We are committed to providing our clients with the best possible service, and we guarantee that you will be satisfied with our work. Contact us today to learn more about our balloon decoration services.",
+      "image": "https://down-vn.img.susercontent.com/file/96ceaf20c1ba88f34a72ad052d238372"
+    },
+    {
+      "id": 13,
+      "price": 5000,
+      "name": "Performing arts services",
+      "description": "Jason Events Management is a leading provider of performing arts services in Vietnam. We offer a wide range of services, including: Event planning and management: We can help you plan and manage any type of performing arts event, from small concerts to large festivals. Venue selection: We can help you find the perfect venue for your event, whether it's a theater, concert hall, or outdoor space. Artist booking: We can book any type of artist for your event, from local musicians to international stars. Marketing and promotion: We can help you market and promote your event to reach your target audience. ",
+      "image": "https://nhansusaigon.com/upload/nhom_mua/vu_doan/cho_thue_nhom_mua_vu_doan_03.jpg"
+    },
+    {
+      "id": 14,
+      "price": 1000,
+      "name": "MC hosting service",
+      "description": "Jason Eventsmgmt is a leading event management company that offers a wide range of services, including MC hosting. Our MCs are experienced and professional, and they are committed to providing a smooth and enjoyable experience for your guests. We offer a variety of MC hosting packages to suit your needs, from small gatherings to large corporate events. Our MCs can provide introductions, presentations, and other announcements, as well as keep the conversation flowing and the energy high. ",
+      "image": "https://iparty.vn/wp-content/uploads/2020/02/MC800a.jpg"
+    },
+    {
+      "id": 15,
+      "price": 2000,
+      "name": "Filming and photography services",
+      "description": "Sure, here is a description for filming and photography services for Jason EventsMgmt: Jason EventsMgmt is a leading provider of filming and photography services in Ho Chi Minh City, Vietnam. Our team of experienced professionals has a proven track record of providing high-quality, creative content for a wide range of events and occasions.",
+      "image": "https://top10review.com.vn/wp-content/uploads/2022/04/Danh-sach-10-dich-vu-quay-phim-chup-anh-su-kien-top-dau-tai-HCM-8..png"
+    },
+    {
+      "id": 16,
+      "price": 300,
+      "name": "Printing and design services",
+      "description": "Jason EventsMgmt is a full-service event management company that specializes in printing and design services. We offer a wide range of printing and design options to meet your event needs, including: Invitations: We can create custom invitations that reflect your event's theme or style. Our invitations are printed on high-quality paper and come in a variety of colors and finishes. Programs: We can create programs that provide attendees with information about your event's schedule and speakers. Our programs are printed on durable paper and are available in a variety of sizes and layouts. Signage: We can create signage that helps guide attendees around your event space. Our signage is printed on durable materials and is available in a variety of sizes and shapes. Tablescapes: We can create custom tablescapes that add a touch of elegance to your event. Our tablescapes are made with high-quality materials and are available in a variety of styles. Other printed materials: We can also create a variety of other printed materials for your event, such as brochures, flyers, and banners.",
+      "image": "https://bizflyportal.mediacdn.vn/thumb_wm/1000,100/bizflyportal/images/backdrop-man-hinh-led.jpg-16782517447255.png"
     },
       {
-        "id": 5,
-        "price": 1500,
-        "name": "Lighting and sound services",
-        "description": "Dịch vụ âm thanh ánh sáng Âm thanh ánh sáng là một trong những yếu tố quan trọng góp phần tạo nên sự thành công của một sự kiện. Một hệ thống âm thanh ánh sáng chất lượng sẽ giúp truyền tải thông điệp của sự kiện một cách rõ ràng, thu hút và tạo ấn tượng tốt đẹp cho người tham dự. Về âm thanh Âm thanh là yếu tố quan trọng nhất trong một sự kiện, giúp truyền tải thông điệp của sự kiện một cách rõ ràng, thu hút và tạo ấn tượng tốt đẹp cho người tham dự. Hệ thống âm thanh bao gồm các thiết bị như loa, micro, mixer, amplifier,... Các loa được sử dụng trong âm thanh sự kiện thường là loa sân khấu, loa sub, loa line array,... tùy thuộc vào quy mô và tính chất của sự kiện. Micro được sử dụng cho các diễn giả, ca sĩ, MC,... Mixer là thiết bị xử lý âm thanh, giúp cân chỉnh âm thanh cho phù hợp với không gian và nội dung của sự kiện. Amplifier là thiết bị khuếch đại âm thanh, giúp âm thanh phát ra được to và rõ ràng. Về ánh sáng Ánh sáng đóng vai trò quan trọng trong việc tạo nên không gian và cảm xúc cho sự kiện. Hệ thống ánh sáng bao gồm các thiết bị như đèn chiếu sáng, đèn sân khấu, đèn laser,... Các đèn chiếu sáng được sử dụng trong ánh sáng sự kiện thường là đèn spotlight, đèn PAR, đèn Fresnel,... Đèn sân khấu được sử dụng để chiếu sáng sân khấu, giúp diễn viên, ca sĩ, MC,... nổi bật trên sân khấu. Đèn laser được sử dụng để tạo hiệu ứng ánh sáng đặc biệt, giúp không gian sự kiện trở nên lung linh và ấn tượng hơn. Ưu điểm của dịch vụ âm thanh ánh sáng chuyên nghiệp Hệ thống âm thanh ánh sáng chất lượng, đảm bảo truyền tải thông điệp của sự kiện một cách rõ ràng, thu hút và tạo ấn tượng tốt đẹp cho người tham dự. Đội ngũ nhân viên chuyên nghiệp, giàu kinh nghiệm, có khả năng tư vấn và lắp đặt hệ thống âm thanh ánh sáng phù hợp với quy mô và tính chất của sự kiện. Dịch vụ uy tín, chuyên nghiệp, đảm bảo tiến độ và chất lượng công việc. Lý do chọn dịch vụ âm thanh ánh sáng của Jason EventSMGMT Chúng tôi là đơn vị tổ chức sự kiện chuyên nghiệp, có nhiều năm kinh nghiệm trong lĩnh vực âm thanh ánh sáng. Chúng tôi sở hữu hệ thống âm thanh ánh sáng hiện đại, chất lượng cao, được nhập khẩu từ các thương hiệu uy tín trên thế giới. Đội ngũ nhân viên chuyên nghiệp, giàu kinh nghiệm, được đào tạo bài bản về âm thanh ánh sáng. Chúng tôi cam kết mang đến cho khách hàng dịch vụ âm thanh ánh sáng chất lượng cao, đáp ứng mọi yêu cầu của khách hàng. Các gói dịch vụ âm thanh ánh sáng  Chúng tôi cung cấp đa dạng các gói dịch vụ âm thanh ánh sáng, phù hợp với mọi quy mô và ngân sách của khách hàng. Gói cơ bản: Gói dịch vụ này bao gồm các thiết bị âm thanh ánh sáng cơ bản, phù hợp cho các sự kiện có quy mô nhỏ, nội dung đơn giản. Gói nâng cao: Gói dịch vụ này bao gồm các thiết bị âm thanh ánh sáng chất lượng cao, phù hợp cho các sự kiện có quy mô lớn, nội dung phức tạp. Gói VIP: Gói dịch vụ này bao gồm các thiết bị âm thanh ánh sáng hiện đại nhất, phù hợp cho các sự kiện đặc biệt, sang trọng",
-        "image": "https://tochucsukienhanoi.com.vn/wp-content/uploads/2020/10/thue-am-thanh-anh-sang.jpg"
-      },
-      {
-        "id": 6,
-        "price": 750,
-        "name": "Outdoor sound and lighting servicesi",
-        "description": "Jason Events Management Lighting and Sound Services. Jason Events Management is a leading provider of lighting and sound services for events of all sizes. We offer a wide range of equipment and services to create the perfect atmosphere for your event. We are committed to providing our customers with the highest quality lighting and sound services. We work with you to understand your needs and budget to create the perfect atmosphere for your event.",
-        "image": "https://khangphudataudio.com/wp-content/uploads/2020/11/cho-thue-am-thanh-su-kien-ngoai-troi-1.jpg"
-      },
-      {
-        "id": 7,
-        "price": 1000000,
-        "name": "Stage lighting service",
-        "description": "Jason Events Management is a leading provider of stage lighting services in Vietnam. Our team of experienced professionals has a passion for creating stunning and memorable lighting effects for a wide range of events, including concerts, theater productions, and corporate events. We offer a wide range of lighting options to suit any budget or event style. Our services include: Lighting design: We work with you to create a custom lighting design that meets your specific needs and goals. Lighting installation: Our team of experienced technicians will install your lighting system safely and efficiently. Lighting operation: We can provide staff to operate your lighting system during your event. We are committed to providing our customers with the highest quality stage lighting services. We are confident that we can help you create an unforgettable event that your guests will never forget.",
-        "image": "https://bizweb.dktcdn.net/100/323/378/files/fb-img-1534138276804-1.jpg?v=1587440017724"
-      },
-      {
-        "id": 8,
+        "id": 17,
         "price": 1000,
-        "name": "printing and design services",
-        "description": "Jason Eventsmgmt is a full-service event management company that specializes in printing and design. We offer a wide range of services, including: Printing: We can print a variety of materials, including brochures, flyers, invitations, banners, and more. We use high-quality materials and equipment to ensure that your printed materials look their best. Design: We can help you create a custom design for your printed materials. We have a team of experienced designers who can work with you to create a design that meets your needs and budget. Turnaround time: We offer fast turnaround times so that you can get your printed materials in time for your event. Pricing: We offer competitive pricing so that you can get the best value for your money. Whether you're planning a small gathering or a large event, Jason Eventsmgmt can help you with your printing and design needs. We'll work with you to create the perfect look for your event.",
-        "image": "https://nhansusaigon.com/upload/hoi_nghi_hoi_thao/hop_bao/gala_dinner/nha_bat/am_thanh_anh_sang/cho-thue-am-thanh-anh-sang-gia-re-hcm-16.JPG"
+        "name": "Security services",
+        "description": "Jason Events Management offers a comprehensive range of security services to ensure the safety and security of your event. Our team of experienced professionals is dedicated to providing you with the peace of mind you need to enjoy your event. We understand that every event is different, so we customize our security services to meet your specific needs. We will work with you to develop a security plan that is tailored to your event's size, location, and budget.",
+        "image": "https://www.baoanvietnam.com/wp-content/uploads/2021/07/207115393_2163303350477987_2553000677876664460_n.jpg"
       },
       {
-        "id": 9,
+        "id": 18,
+        "price":500,
+        "name": "Cleaning service",
+        "description": "Jason Events MGMT is a professional cleaning service that provides a wide range of cleaning services for businesses and homes. Our team of experienced cleaners is committed to providing high-quality cleaning services that meet the needs of our clients. We use high-quality cleaning supplies and equipment to ensure that your property is cleaned to the highest standards. We also use environmentally friendly cleaning products to protect your health and the environment. We are committed to providing our clients with a clean, safe, and comfortable environment. If you are looking for a professional cleaning service, Jason Events MGMT is the perfect choice for you.",
+        "image": "https://saotayho.com/wp-content/uploads/2021/01/25.jpg"
+      },
+      {
+        "id": 19,
         "price": 2000,
-        "name": "Rent a party room",
-        "description": "Looking for the perfect place to host your next party? Jason Eventsmgmt has a variety of party rooms to choose from, all designed to make your event a success. Our party rooms are spacious and well-appointed, with everything you need to entertain your guests. Whether you're hosting a birthday party, corporate event, or wedding reception, we have a room that's perfect for you. We offer a variety of amenities to make your event even more special, including: Free Wi-Fi, Catering options, AV equipment, And more!",
-        "image": "https://maisonoffice.vn/wp-content/uploads/2022/07/JW-Marriott-Hanoi.jpg"
+        "name": "Rent a shuttle",
+        "description": "Jason Events Management offers a variety of shuttle rental services to meet your needs. Whether you're planning a wedding, corporate event, or simply need transportation to and from the airport, we can help. Our shuttles are clean, comfortable, and equipped with all the amenities you need for a safe and enjoyable ride. We offer a variety of vehicle sizes to accommodate groups of all sizes, and our drivers are experienced and professional.",
+        "image": "https://dongphongtransport.com/wp-content/uploads/2022/07/thue-xe-du-lich-tai-ha-noi.jpg"
       },
       {
-        "id": 10,
-        "price": 300,
-        "name": "Food Service",
-        "description": "Jason Events Management offers a variety of food service options for all types of events. Whether you're looking for a casual buffet, a formal sit-down dinner, or something in between, we can create a menu that fits your needs and budget. We work with a network of local caterers and restaurants to provide you with the freshest, most delicious food possible. Our chefs are experts in creating dishes that are both visually appealing and flavorful. We also offer a variety of beverage options, including wine, beer, cocktails, and non-alcoholic drinks. We can customize your beverage menu to include your favorite drinks, or we can create a new menu that complements your event theme.",
-        "image": "https://antenna.vn/wp-content/uploads/2019/08/IMG_8663.jpg"
+        "id": 20,
+        "price":300,
+        "name": "Gift service",
+        "description": "Jason Eventsmgmt is a full-service event planning company that specializes in corporate events. We offer a wide range of gift services to help you make your next event a success. We can also help you create custom gift packages that are tailored to your specific needs. We understand that every event is different, and we want to make sure that your gifts are perfect for your guests.",
+        "image": "https://corp-giftvn.com/vi/wp-content/uploads/2017/11/gift.png"
       },
       {
-        "id": 11,
-        "price": 550,
-        "name": "Fresh flower decoration service",
-        "description": "Jason Events Management is proud to offer a wide range of fresh flower decoration services for any occasion. Whether you are planning a wedding, a corporate event, or a private party, we can help you create a stunning and memorable floral display. We have a team of experienced florists who are passionate about their work. We use only the freshest flowers and the highest quality materials. We take the time to understand your needs and create a design that is both beautiful and functional.",
-        "image": "https://charmingflowers.com.vn/wp-content/uploads/2020/03/74909810_2558075840946643_786284456062222336_n.jpg"
+        "id": 21,
+        "price": 500,
+        "name": "organize live events",
+        "description": "Jason EventsMgmt is a full-service event management company that specializes in live events. We offer a wide range of services, including: Event planning and coordination: We work with you to create a customized event that meets your specific needs. Event logistics: We handle all of the logistics involved in hosting an event, such as venue selection, catering, and transportation. Event marketing and promotion: We help you reach your target audience and generate excitement for your event.Event technology: We provide the latest technology and equipment to ensure your event runs smoothly. Our team of experienced professionals has a proven track record of success. We have worked with a wide range of clients, from small businesses to Fortune 500 companies. We are committed to providing our clients with the best possible experience.We understand that every event is unique. That's why we take the time to understand your specific needs and goals. We work with you to create an event that is both memorable and successful.",
+        "image": "https://galacenter.com.vn/wp-content/uploads/2021/10/5-1.jpg"
       },
       {
-        "id": 12,
-        "price": 750,
-        "name": "Balloon decoration service",
-        "description": "Jason Eventsmgmt is a leading event planning company that specializes in balloon decorations. We have a team of experienced and talented decorators who can create stunning balloon displays for any occasion. We use only the highest quality balloons and materials, and we work with you to create a balloon decoration that perfectly suits your needs and budget. We are committed to providing our clients with the best possible service, and we guarantee that you will be satisfied with our work. Contact us today to learn more about our balloon decoration services.",
-        "image": "https://down-vn.img.susercontent.com/file/96ceaf20c1ba88f34a72ad052d238372"
+        "id": 22,
+        "price": 200,
+        "name": "Consulting and organizational services",
+        "description": "Jason EventsMgmt is a leading provider of consulting and organizational services to businesses of all sizes. We offer a wide range of services, including: Strategic planning: We help businesses develop and implement strategic plans that align with their goals and objectives. Organizational development: We help businesses improve their organizational effectiveness by addressing issues such as employee engagement, leadership development, and culture change. Project management: We help businesses successfully execute projects by providing planning, execution, and oversight services. Our consultants are experienced professionals with a proven track record of success. We work with businesses to understand their unique needs and challenges, and we develop customized solutions that deliver results.",
+        "image": "https://bizflyportal.mediacdn.vn/thumb_wm/1000,100/bizflyportal/images/client-ervice-event-manager-16783601602868.png"
       },
       {
-        "id": 13,
-        "price": 5000,
-        "name": "Performing arts services",
-        "description": "Jason Events Management is a leading provider of performing arts services in Vietnam. We offer a wide range of services, including: Event planning and management: We can help you plan and manage any type of performing arts event, from small concerts to large festivals. Venue selection: We can help you find the perfect venue for your event, whether it's a theater, concert hall, or outdoor space. Artist booking: We can book any type of artist for your event, from local musicians to international stars. Marketing and promotion: We can help you market and promote your event to reach your target audience. ",
-        "image": "https://nhansusaigon.com/upload/nhom_mua/vu_doan/cho_thue_nhom_mua_vu_doan_03.jpg"
-      },
-      {
-        "id": 14,
-        "price": 1000,
-        "name": "MC hosting service",
-        "description": "Jason Eventsmgmt is a leading event management company that offers a wide range of services, including MC hosting. Our MCs are experienced and professional, and they are committed to providing a smooth and enjoyable experience for your guests. We offer a variety of MC hosting packages to suit your needs, from small gatherings to large corporate events. Our MCs can provide introductions, presentations, and other announcements, as well as keep the conversation flowing and the energy high. ",
-        "image": "https://iparty.vn/wp-content/uploads/2020/02/MC800a.jpg"
-      },
-      {
-        "id": 15,
+        "id": 23,
         "price": 2000,
-        "name": "Filming and photography services",
-        "description": "Sure, here is a description for filming and photography services for Jason EventsMgmt: Jason EventsMgmt is a leading provider of filming and photography services in Ho Chi Minh City, Vietnam. Our team of experienced professionals has a proven track record of providing high-quality, creative content for a wide range of events and occasions.",
-        "image": "https://top10review.com.vn/wp-content/uploads/2022/04/Danh-sach-10-dich-vu-quay-phim-chup-anh-su-kien-top-dau-tai-HCM-8..png"
+        "name": "Insurance services",
+        "description": "Jason Events Management offers a variety of insurance services to protect your event from unexpected events. Our policies cover a wide range of risks, including: Event cancellation: If your event is cancelled due to inclement weather, illness, or other unforeseen circumstances, our cancellation policy will reimburse you for your expenses. Event liability: Our liability policy will protect you in the event of an accident or injury at your event. Property damage: Our property damage policy will cover damage to your venue or equipment in the event of an accident. Workers' compensation: Our workers' compensation policy will cover your employees in the event of an on-the-job injury. We also offer a variety of customized insurance packages to meet your specific needs. Our team of experienced professionals will work with you to create a policy that provides the right level of protection for your event.",
+        "image": "https://baohiembaoviet.com/wp-content/uploads/2021/05/bao-hiem-trach-nhiem-su-kien-0921.jpg"
       },
       {
-        "id": 16,
+        "id": 24,
         "price": 300,
-        "name": "Printing and design services",
-        "description": "Jason EventsMgmt is a full-service event management company that specializes in printing and design services. We offer a wide range of printing and design options to meet your event needs, including: Invitations: We can create custom invitations that reflect your event's theme or style. Our invitations are printed on high-quality paper and come in a variety of colors and finishes. Programs: We can create programs that provide attendees with information about your event's schedule and speakers. Our programs are printed on durable paper and are available in a variety of sizes and layouts. Signage: We can create signage that helps guide attendees around your event space. Our signage is printed on durable materials and is available in a variety of sizes and shapes. Tablescapes: We can create custom tablescapes that add a touch of elegance to your event. Our tablescapes are made with high-quality materials and are available in a variety of styles. Other printed materials: We can also create a variety of other printed materials for your event, such as brochures, flyers, and banners.",
-        "image": "https://bizflyportal.mediacdn.vn/thumb_wm/1000,100/bizflyportal/images/backdrop-man-hinh-led.jpg-16782517447255.png"
-      },
-        {
-          "id": 17,
-          "price": 1000,
-          "name": "Security services",
-          "description": "Jason Events Management offers a comprehensive range of security services to ensure the safety and security of your event. Our team of experienced professionals is dedicated to providing you with the peace of mind you need to enjoy your event. We understand that every event is different, so we customize our security services to meet your specific needs. We will work with you to develop a security plan that is tailored to your event's size, location, and budget.",
-          "image": "https://www.baoanvietnam.com/wp-content/uploads/2021/07/207115393_2163303350477987_2553000677876664460_n.jpg"
-        },
-        {
-          "id": 18,
-          "price":500,
-          "name": "Cleaning service",
-          "description": "Jason Events MGMT is a professional cleaning service that provides a wide range of cleaning services for businesses and homes. Our team of experienced cleaners is committed to providing high-quality cleaning services that meet the needs of our clients. We use high-quality cleaning supplies and equipment to ensure that your property is cleaned to the highest standards. We also use environmentally friendly cleaning products to protect your health and the environment. We are committed to providing our clients with a clean, safe, and comfortable environment. If you are looking for a professional cleaning service, Jason Events MGMT is the perfect choice for you.",
-          "image": "https://saotayho.com/wp-content/uploads/2021/01/25.jpg"
-        },
-        {
-          "id": 19,
-          "price": 2000,
-          "name": "Rent a shuttle",
-          "description": "Jason Events Management offers a variety of shuttle rental services to meet your needs. Whether you're planning a wedding, corporate event, or simply need transportation to and from the airport, we can help. Our shuttles are clean, comfortable, and equipped with all the amenities you need for a safe and enjoyable ride. We offer a variety of vehicle sizes to accommodate groups of all sizes, and our drivers are experienced and professional.",
-          "image": "https://dongphongtransport.com/wp-content/uploads/2022/07/thue-xe-du-lich-tai-ha-noi.jpg"
-        },
-        {
-          "id": 20,
-          "price":300,
-          "name": "Gift service",
-          "description": "Jason Eventsmgmt is a full-service event planning company that specializes in corporate events. We offer a wide range of gift services to help you make your next event a success. We can also help you create custom gift packages that are tailored to your specific needs. We understand that every event is different, and we want to make sure that your gifts are perfect for your guests.",
-          "image": "https://corp-giftvn.com/vi/wp-content/uploads/2017/11/gift.png"
-        },
-        {
-          "id": 21,
-          "price": 500,
-          "name": "organize live events",
-          "description": "Jason EventsMgmt is a full-service event management company that specializes in live events. We offer a wide range of services, including: Event planning and coordination: We work with you to create a customized event that meets your specific needs. Event logistics: We handle all of the logistics involved in hosting an event, such as venue selection, catering, and transportation. Event marketing and promotion: We help you reach your target audience and generate excitement for your event.Event technology: We provide the latest technology and equipment to ensure your event runs smoothly. Our team of experienced professionals has a proven track record of success. We have worked with a wide range of clients, from small businesses to Fortune 500 companies. We are committed to providing our clients with the best possible experience.We understand that every event is unique. That's why we take the time to understand your specific needs and goals. We work with you to create an event that is both memorable and successful.",
-          "image": "https://galacenter.com.vn/wp-content/uploads/2021/10/5-1.jpg"
-        },
-        {
-          "id": 22,
-          "price": 200,
-          "name": "Consulting and organizational services",
-          "description": "Jason EventsMgmt is a leading provider of consulting and organizational services to businesses of all sizes. We offer a wide range of services, including: Strategic planning: We help businesses develop and implement strategic plans that align with their goals and objectives. Organizational development: We help businesses improve their organizational effectiveness by addressing issues such as employee engagement, leadership development, and culture change. Project management: We help businesses successfully execute projects by providing planning, execution, and oversight services. Our consultants are experienced professionals with a proven track record of success. We work with businesses to understand their unique needs and challenges, and we develop customized solutions that deliver results.",
-          "image": "https://bizflyportal.mediacdn.vn/thumb_wm/1000,100/bizflyportal/images/client-ervice-event-manager-16783601602868.png"
-        },
-        {
-          "id": 23,
-          "price": 2000,
-          "name": "Insurance services",
-          "description": "Jason Events Management offers a variety of insurance services to protect your event from unexpected events. Our policies cover a wide range of risks, including: Event cancellation: If your event is cancelled due to inclement weather, illness, or other unforeseen circumstances, our cancellation policy will reimburse you for your expenses. Event liability: Our liability policy will protect you in the event of an accident or injury at your event. Property damage: Our property damage policy will cover damage to your venue or equipment in the event of an accident. Workers' compensation: Our workers' compensation policy will cover your employees in the event of an on-the-job injury. We also offer a variety of customized insurance packages to meet your specific needs. Our team of experienced professionals will work with you to create a policy that provides the right level of protection for your event.",
-          "image": "https://baohiembaoviet.com/wp-content/uploads/2021/05/bao-hiem-trach-nhiem-su-kien-0921.jpg"
-        },
-        {
-          "id": 24,
-          "price": 300,
-          "name": "Other services",
-          "description": "In addition to our core event management services, Jason Events Management also offers a variety of other services to help our clients achieve their event goals. These services include: Marketing and promotion: We can help you create a marketing and promotion plan that will reach your target audience and generate excitement for your event. Venue selection: We can help you find the perfect venue for your event, taking into account your budget, needs, and preferences. Logistics and transportation: We can help you coordinate all aspects of logistics and transportation for your event, from booking flights and hotels to arranging transportation for guests and vendors. Audio visual: We can provide audio visual equipment and services for your event, ensuring that your message is delivered clearly and effectively. Entertainment: We can provide entertainment for your event, from live music to DJs to comedians.",
-          "image": "https://cdn.brvn.vn/editor/2020/06/quangcaoeventactivationtaitrungtamthuongmai1768x510_1591502115.jpg"
-        }
+        "name": "Other services",
+        "description": "In addition to our core event management services, Jason Events Management also offers a variety of other services to help our clients achieve their event goals. These services include: Marketing and promotion: We can help you create a marketing and promotion plan that will reach your target audience and generate excitement for your event. Venue selection: We can help you find the perfect venue for your event, taking into account your budget, needs, and preferences. Logistics and transportation: We can help you coordinate all aspects of logistics and transportation for your event, from booking flights and hotels to arranging transportation for guests and vendors. Audio visual: We can provide audio visual equipment and services for your event, ensuring that your message is delivered clearly and effectively. Entertainment: We can provide entertainment for your event, from live music to DJs to comedians.",
+        "image": "https://cdn.brvn.vn/editor/2020/06/quangcaoeventactivationtaitrungtamthuongmai1768x510_1591502115.jpg"
+      }
 ]
-  
-  
+

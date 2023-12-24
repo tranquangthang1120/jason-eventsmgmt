@@ -1,10 +1,9 @@
 .productDetails{
     display: grid;
     grid-template-columns: 40% 60%;
-    margin: 30px;
+    margin: 10px;
     border: dashed 1px;
     border-radius: 4%;
-    padding: 10px;
 }
 .productDetails img{
     height: 100%;

@@ -2,8 +2,7 @@
     width: 100%;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    padding: 30px;
-  
+    padding: 10px;
   }
   
   .productlist button {
