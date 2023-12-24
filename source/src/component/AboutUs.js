@@ -13,7 +13,7 @@ function AboutUs(){
 
 ​
 
-With meticulous attention to detail, whatever the size or budget. Providing you and your guests a unique experience in the UK or Overseas.
+With meticulous attention to detail, whatever the size or budget. Providing you and your guests a unique experience in the VN or Overseas.
         </p>
         <ul>
           <li>Plan and implement events</li>
