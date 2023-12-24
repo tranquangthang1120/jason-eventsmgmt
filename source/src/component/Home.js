@@ -6,8 +6,6 @@ import Image4 from '../image/garden.webp'
 import Image5 from '../image/Paula.webp'
 
 
-import "../css/Home.css";
-
 function Home() {
     const navigate = useNavigate();
   

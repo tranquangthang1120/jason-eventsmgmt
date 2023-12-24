@@ -7,7 +7,13 @@ function AboutUs(){
             <div className="about-us">
         <h1>Introducing Jason EventsMGMT</h1>
         <p>
+        WELCOME TO Jason EventsMGMT
         Jason EventsMGMT is a professional event organization company in Ho Chi Minh City, Vietnam. We provide full event organization services, including:
+        We provide all you need for a perfect party whatever the size, theme or location. From the importance of delectable catering, perfect venue sourcing or beautiful marquees, fabulous props, creative floral displays, stunning lighting, music and entertainment.
+
+​
+
+With meticulous attention to detail, whatever the size or budget. Providing you and your guests a unique experience in the UK or Overseas.
         </p>
         <ul>
           <li>Plan and implement events</li>
