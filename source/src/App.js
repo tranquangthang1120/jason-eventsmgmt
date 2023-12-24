@@ -6,6 +6,7 @@ import ProductList from './component/ProductList';
 import CartList from './component/CartList';
 import ProductSearch from './component/ProductSearch';
 import ProductDetails from './component/ProductDetails';
+import AboutUs from './component/AboutUs';
 import Login from './component/Login';
 import SingUp from'./component/Singup';
 import Paycart from './component/Paycart';
@@ -166,23 +167,45 @@ function App() {
                 <ProductSearch searchValue={searchValue} onSearch={handleSearch}/>
                 <button onClick={handleSort}>Search</button>
                 <ProductList products={filterProduct} addCart={addCart} getDetails={getDetails}/>
+                <Footer/>
               </div>
             }/>
             <Route path='/Pay' element={
             localStorage.getItem('username') ? (
-            <Paycart/>): (<Navigate to='/login'/>)
+            <div>
+            <Paycart/> 
+            <Footer/>
+            </div>
+            ): (<Navigate to='/login'/>)
             }/>
-        <Route path='/cart' element={<CartList carts={carts} deleteCart={handleDeleteCart}/>}/>
+        <Route path='/cart' element={
+        <div>
+        <CartList carts={carts} deleteCart={handleDeleteCart}/>
+        <Footer/>
+        </div>
+        }/>
         <Route path='/details' element={
           <div>
         <ProductSearch searchValue={searchValue} onSearch={handleSearch}/>
         <button onClick={handleSort}>Search</button>
         <ProductDetails product={productDetails} addCart={addCart}/>
+        <Footer/>
         </div>
       }/>
-        <Route path='/login' element={<Login checkLogin={checkLogin} errorLogin={errorLogin} />}
+        <Route path='/login' element={
+        <div>
+        <Login checkLogin={checkLogin} errorLogin={errorLogin} />
+        <Footer/>
+      </div>
+      }
         />
         <Route path='/singup' element={<SingUp/>}/>
+        <Route path='/aboutus' element={
+        <div>
+        <AboutUs />
+        <Footer/>
+        </div>
+        }/>
       </Routes>
     </div>
   );
