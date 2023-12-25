@@ -19,10 +19,15 @@ Student1507669  Trần Quang Thắng
 
 eProject documentation at https://github.com/tranquangthang1120/jason-eventsmgmt/tree/main/document
 
-============================
-
-eProject published at https://github.com/tranquangthang1120/jason-eventsmgmt/blob/main/document/React%20App%20and%201%20more%20page%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%202023-12-22%2015-49-40.mp4
 
 ============================
+
+eProject video at https://drive.google.com/file/d/1Ep9cpJDbaCXrR-8vKr5oQQ-yS8snoqyh/view?usp=sharing
+
+============================
+eProject video at https://drive.google.com/file/d/1S_1BU92hV262ciMTIto3GtY2A2712Equ/view?usp=sharing
+
+
 
 Thank you for spending your time to look at our work.
+
